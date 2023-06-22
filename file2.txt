@@ -1,2 +1,0 @@
-a new file to be stashed..
-New edit in master
