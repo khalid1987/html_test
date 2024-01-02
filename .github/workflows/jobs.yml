@@ -26,7 +26,7 @@ jobs:
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
       with:
-        server: ftp.appimate.com
+        server: cp3.tn.oxa.host
         username: knwxywd
         password: +XoZ;6iid9MA00 
-        server-dir: /
+        server-dir: /home3/jkbleiyj/test.elmontajaa-eladabi.com/test
