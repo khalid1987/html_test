@@ -20,5 +20,5 @@ jobs:
         server: cp3.tn.oxa.host
         username: jkbleiyj
         password: +XoZ;6iid9MA00 
-        server-dir: /jkbleiyj/test.elmontajaa-eladabi.com/test/
+        server-dir: /test.elmontajaa-eladabi.com/test/
         local-dir: ./
